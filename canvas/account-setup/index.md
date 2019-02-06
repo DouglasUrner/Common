@@ -10,6 +10,7 @@ By this point you have a Canvas account and have joined the class. What's left i
 
 * I can edit my account settings.
 * I can create a bookmark in Chrome.
+* I can mark a required assignment as "done" in Canvas.
 
 ## Instructions
 
@@ -18,7 +19,7 @@ Follow along in the [slides][slides] to:
 1. **Edit your Canvas account settings:**
    - **Full Name:** enter the name by which Skyward knows you.
    - **Display Name:** the name you call yourself.
-   - **Sortable Name:** make sure that it got your last name right, Canvas does okay with single word last names, but always gets unhyphenated multi-word lastnames wrong. It should read *your last name, your first name* – for example *Urner, Douglas*.
+   - **Sortable Name:** make sure that it got your last name right, Canvas does okay with single word last names, but always gets unhyphenated multi-word lastnames wrong. It should read ***your last name, your first name*** – for example ***Urner, Douglas***.
    - **Time Zone:** make sure it is set to Pacific.
    - Please be sure that your name is capitalized "correctly" - then click **Update Settings** to save your work.
 1. **Create a bookmark in Chrome for our class.**
