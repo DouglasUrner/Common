@@ -23,6 +23,7 @@ Follow along in the [slides][slides] to:
    - **Time Zone:** make sure it is set to Pacific.
    - Please be sure that your name is capitalized "correctly" - then click **Update Settings** to save your work.
 1. **Create a bookmark in Chrome for our class.**
+1. **Mark the assignment as done.**
 
 ## Submission
 
