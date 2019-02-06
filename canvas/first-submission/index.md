@@ -1,4 +1,4 @@
-[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.2-first-submission/" width="100%" height="666px"></iframe></p>)
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.2-first-submission/" width="100%" height="666px"></iframe></p> )
 
 ## Canvas 101
 
