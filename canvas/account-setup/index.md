@@ -2,7 +2,7 @@
 
 ## Canvas Account Setup
 
-By this point you have a Canvas account and have joined the class. What's left is to clean up your account settings to display your name properly and to make sure that you are shown the due dates in our timezone. You should also create a bookmark to the class in Chrome.
+By this point you have a Canvas account and have joined the class. What's left is to clean up your Canvas account settings to display your name properly and to make sure that you are shown the due dates in our timezone. You should also create a bookmark to the class in Chrome.
 
 [Slides][slides] - right-click and choose **Open link in a new tab** to view.
 
