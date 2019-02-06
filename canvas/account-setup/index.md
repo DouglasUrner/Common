@@ -20,7 +20,7 @@ Follow along in the [slides][slides] to:
    - **Full Name:** enter the name by which Skyward knows you.
    - **Display Name:** the name you call yourself.
    - **Sortable Name:** make sure that it got your last name right, Canvas does okay with single word last names, but always gets unhyphenated multi-word lastnames wrong. It should read ***your last name, your first name*** – for example ***Urner, Douglas***.
-   - **Time Zone:** make sure it is set to Pacific.
+   - **Time Zone:** make sure it is set to Pacific. If you do not set this correctly, you will may see incorrect due dates on your assignments - the default timezone for Canvas is Mountain Time, one hour ahead of Pacific Time, and so an assigment that is available until **11:59 PM today** in the Pacific Time timezone, is due at **12:50 AM tomorrow** in the Mountain Time timezone that could lead to unfortunate confusion.
    - Please be sure that your name is capitalized "correctly" - then click **Update Settings** to save your work.
 1. **Create a bookmark in Chrome for our class.**
 1. **Mark the assignment as done.**
