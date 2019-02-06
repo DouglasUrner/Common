@@ -16,17 +16,20 @@ The purpose of this assignment is to help you become familiar with Canvas and ho
 
 ## Instructions
 
-1. Make a copy of the **Canvas 101 Template**:
-   - Right-click on the **[Canvas 101 Template](https://docs.google.com/document/d/1caYrcNryLzI96mPzDU2imeCsXr9jOfTgvzzbSuyXGVQ/edit?usp=sharing)** link and choose **Open link in new tab**.
+1. Make a copy of the **[Canvas 101 Template][template]**:
+   - Right-click on the **[Canvas 101 Template][template]** link and choose **Open link in new tab**.
    - The template document will open in read-only mode.
-   - In the document **File** menu choose **Make a copy...** (File > Make a copy...)
+   - In the document's **File** menu choose **Make a copy...** (File > Make a copy...)
    - Rename the document - changing **Copy of** to your name is one possibility.
 1. Complete the questions.
+   - Since the space for assignment names in Skyward is small, the name of the assignment on Skyward will probably be different than the name on Canvas. But, you can count on the beginning being identical - the name of this assignment on Skyward will begin with the same characters as the name of the assignment on Canvas. After that it is harder to predict - I will try to pick a "keyword" or two from the assignment name to use in Skyward.
 1. Submit the document to complete the assignment. The first time that you submit a Google Docs document you will have to go through the process of approving the connection between Google and Canvas.
 1. Come back to check your feedback on the assignment and resubmit if you did not get a perfect score.
 
 ## Submission
 
 A PDF of the Canvas 101 Template through Canvas **do not** submit by sharing the document.
+
+[template]: https://docs.google.com/document/d/1caYrcNryLzI96mPzDU2imeCsXr9jOfTgvzzbSuyXGVQ/edit?usp=sharing
 
 
