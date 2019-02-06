@@ -29,4 +29,4 @@ Follow along in the [slides][slides] to:
 
 For this assignment you do not need to submit anything - all you need to do is to click the **Mark as done** button in the upper right corner of the page. You won't be able to move on in the unit until you mark the assignment as done. I'll be able to tell if you completed it correctly when I check the class roster in Canvas. Not making the bookmark is a self-punishing crime…
 
-[slides]: https://docs.google.com/presentation/d/1spbB4-bNs-KhIUOPYvUkgesD35kexxJEyeQwNuFKWwo/edit?usp=sharing
+[slides]: https://docs.google.com/presentation/d/1OT6HbZ38VCHzFEzO930bLRSbbM5Be2P7hwd3itZWw5E/edit?usp=sharing
