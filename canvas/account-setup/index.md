@@ -18,7 +18,7 @@ Follow along in the [slides][slides] to:
 1. **Edit your Canvas account settings:**
    - **Full Name:** enter the name by which Skyward knows you.
    - **Display Name:** the name you call yourself.
-   - **Sortable Name:** make sure that it got your lastname right, Canvas does okay with single word last names, but always gets unhyphenated multi-word lastnames wrong.
+   - **Sortable Name:** make sure that it got your last name right, Canvas does okay with single word last names, but always gets unhyphenated multi-word lastnames wrong. It should read *your last name, your first name* – for example *Urner, Douglas*.
    - **Time Zone:** make sure it is set to Pacific.
    - Please be sure that your name is capitalized "correctly" - then click **Update Settings** to save your work.
 1. **Create a bookmark in Chrome for our class.**
