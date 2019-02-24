@@ -1,1 +1,1 @@
-[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - collaborating through Git.
