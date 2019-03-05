@@ -2,8 +2,8 @@
 
 ## Assignment Name
 
-[slides]: 
-[template]: 
+[slides]: #
+[template]: #
 
 [Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
 
