@@ -20,6 +20,7 @@
 * Push
 * Pull
 * Create and switch branches
+* Pull requests and issues
 * Merge branches
 * Resolve conflicts
 * Revert a commit
