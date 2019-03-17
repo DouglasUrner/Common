@@ -1,9 +1,9 @@
 
 ## Washington GLEs
 
-| | Description |
-| :---: | :--- |
-| 3B-AP-20 | Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project. (P. 2.4) |
+| Identifier | Description |
+| :---:      | :--- |
+| 3B-AP-20   | Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project. (P. 2.4) |
 
 ## Objectives
 
