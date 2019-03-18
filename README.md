@@ -12,6 +12,16 @@ cd path/to/lesson
 git submodule update --remote
 ```
 
+To start a new submodule:
+
+```bash
+```
+
+To add an existing lesson as a submodule:
+
+```bash
+```
+
 ## [Canvas]()
 
 ## [Git and GitHub]()
