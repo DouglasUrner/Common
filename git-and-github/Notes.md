@@ -32,3 +32,10 @@ Plus - seaching for how to do something you don't know/remember.
 [Learn Git Branching](https://learngitbranching.js.org)
 
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - collaborating through Git.
+
+## Unity/Rider Notes
+
+* Make sure files are serialized as ASCII
+* Turn on Git-LFS
+
+## Java/InteliJ Notes
