@@ -1,5 +1,7 @@
 
-## Washington GLEs
+## Washington Standards
+
+[CSTA Standards: Grades 9 & 10](http://www.k12.wa.us/ComputerScience/pubdocs/CS-Standards-9-10.pdf) and [CSTA Standards: Grades 9 & 10](http://www.k12.wa.us/ComputerScience/pubdocs/CS-Standards-11-12.pdf)
 
 | CSTA Identifier | Description |
 | :---:      | :--- |
