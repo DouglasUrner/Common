@@ -16,7 +16,12 @@
 * Collaborate with a team on a coding project.
 * Make mistakes and recover from them.
 
-## Essential Skills
+## Essential Knowledge & Understandings
+
+* Explain what a version control system is.
+* Explain a typical version control workflow.
+
+## Essential (Discrete) Skills
 
 * Create a repository
 * Make a commit
@@ -29,6 +34,10 @@
 * Revert a commit
 
 Plus - seaching for how to do something you don't know/remember.
+
+## Essential Tasks
+
+* Use a version control system to manage changes and facilitate collaboration between team members in group projects.
 
 ## Resources
 
