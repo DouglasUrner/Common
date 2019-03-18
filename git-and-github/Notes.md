@@ -1,7 +1,7 @@
 
 ## Washington GLEs
 
-| Identifier | Description |
+| CSTA Identifier | Description |
 | :---:      | :--- |
 | 3A-IC-27   | Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields. (P. 2.4) |
 | 3B-AP-20   | Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project. (P. 2.4) |
