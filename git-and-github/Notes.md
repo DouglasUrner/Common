@@ -38,6 +38,7 @@ Plus - seaching for how to do something you don't know/remember.
 ## Essential Tasks
 
 * Use a version control system to manage changes and facilitate collaboration between team members in group projects.
+* Contribute to the review of code changes proposed by members of your group (issues and pull requests).
 
 ## Resources
 
