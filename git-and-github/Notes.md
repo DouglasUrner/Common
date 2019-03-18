@@ -29,6 +29,8 @@ Plus - seaching for how to do something you don't know/remember.
 
 ## Resources
 
+[Understanding the GitHub workflow](https://guides.github.com/introduction/flow/)
+
 [Learn Git Branching](https://learngitbranching.js.org)
 
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - collaborating through Git.
