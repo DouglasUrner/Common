@@ -3,6 +3,6 @@
 	url = https://github.com/DouglasUrner/Common-Git-and-GitHub.git
 	branch = master
 [submodule "common-info"]
-	path = common-info
+	path = info
 	url = https://github.com/DouglasUrner/Common-Info.git
 	branch = master
