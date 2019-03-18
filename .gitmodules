@@ -1,3 +1,4 @@
 [submodule "git-and-github"]
 	path = git-and-github
 	url = https://github.com/DouglasUrner/Common-Git-and-GitHub.git
+	branch = master
