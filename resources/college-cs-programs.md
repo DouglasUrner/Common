@@ -2,9 +2,14 @@
 
 ## Local
 
-### [Bellevue College]()
+### [Bellevue College](https://www.bellevuecollege.edu/cs)
 
 Small program, right now acceptance into BC is pretty much a guarantee of admission to the major.
+
+Degrees:
+* BS in CS
+* BAS in Data Analytics
+* BAS in Information Systems & Technology
 
 ### [CWU]()
 
