@@ -1,5 +1,9 @@
 # College CS Programs
 
+## General
+
+Research (R1) vs. teaching schools. Both have their place, but there is a big impact on the "fit" for students.
+
 ## Local
 
 ### [Bellevue College](https://www.bellevuecollege.edu/cs)
