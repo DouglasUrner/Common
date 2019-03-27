@@ -8,9 +8,9 @@
 
 ### UW-B
 
-### UW-T
+### [UW-T](https://tacoma.uw.edu/set)
 
-### WWU
+### [WWU](https://cs.wwu.edu)
 
 [Association for Women In Computing](https://wwu-awc.github.io) - awc.wwu@gmail.com
 
