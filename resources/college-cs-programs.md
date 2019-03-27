@@ -15,7 +15,17 @@ Degrees:
 * BAS in Data Analytics
 * BAS in Information Systems & Technology
 
-### [CWU]()
+### [CWU](https://cwu.edu), Ellensburg, WA
+
+Teaching university.
+
+**Programs:**
+* [Computer Science](https://cwu.edu/computer-science)
+* [STEM Teaching Program Minor]((https://cwu.edu/teachstem)
+
+**Contacts:**
+
+Megan McConnell, megan.mcconnell@cwu.edu, Advisor & Recruiter, Department of Computer Science, 509.963.1455
 
 ### [EWU](https://www.ewu.edu/compsci), Cheney, WA
 
@@ -69,7 +79,6 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 ### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
 
 **Programs:**
-
 * [Computer Science](https://uidaho.edu/engr/cs)
 * [Electrical and Computer Engineering](https://uidaho.edu/engr/ece)
 * [Polymorphic Games](polymorphicgames.com) - interdisciplinary game design studio at the University of Idaho.
