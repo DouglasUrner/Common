@@ -1,4 +1,4 @@
-# College CS Programs
+# College and University CS Programs
 
 ## General
 
@@ -27,9 +27,22 @@ Teaching university.
 
 Megan McConnell, megan.mcconnell@cwu.edu, Advisor & Recruiter, Department of Computer Science, 509.963.1455
 
-### [EWU](https://www.ewu.edu/compsci), Cheney, WA
+### [EWU](https://www.ewu.edu), Cheney, WA
 
 Second largest program (# of graduates) in the state. Teaching university, lots of ethnic diversity in the program. Focus on hands on learning and supporting opportunities for internships (students take lead). Accepts (and succussfully trains and graduates) students with GPAs in the 3+ range. Good option for students who might not make it into the UW program.
+
+**Programs:**
+**Majors:**
+* [BS in Computer Science](https://www.ewu.edu/compsci)
+* [Bachelor of Computer Science]()
+**Minors:**
+* [3D Animation]()
+* [Computer Applications Minor]()
+* [Computer Information Systems Minor]()
+* [Computer Science Programming Minor]()
+* []()
+
+**Contacts:**
 
 Brian Kamp, MS, Senior Lecturer, bkamp@ewu.edu
 
