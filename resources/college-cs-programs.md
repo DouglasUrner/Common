@@ -66,7 +66,21 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 
 ### [UC Berkeley]()
 
-### [University of Idaho College of Engineering]()
+### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
+
+**Programs:**
+
+* [Computer Science](https://uidaho.edu/engr/cs)
+* [Electrical and Computer Engineering](https://uidaho.edu/engr/ece)
+* [Polymorphic Games](polymorphicgames.com) - interdisciplinary game design studio at the University of Idaho.
+
+**Contacts:**
+
+Paulette House, Director of Student Services, College of Engineering, 208.885.9700
+
+Marie Wagner mariew@uidaho.edu also watches engr-sss@uidaho.edu
+
+Society of Women Engineers, Beth Rezaie, SWE Advisor, rezaie@uidaho.edu
 
 ## Summer Institutes
 
