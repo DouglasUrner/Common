@@ -21,7 +21,7 @@ Teaching university.
 
 **Programs:**
 * [Computer Science](https://cwu.edu/computer-science)
-* [STEM Teaching Program Minor]((https://cwu.edu/teachstem)
+* [STEM Teaching Program Minor](https://cwu.edu/teachstem)
 
 **Contacts:**
 
