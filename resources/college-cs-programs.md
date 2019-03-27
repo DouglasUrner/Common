@@ -4,11 +4,21 @@
 
 ### [PLU](https://www.plu.edu/computer-science/)
 
+About 200, 6 CS faculty. Admission to school ensures admission to major.
+
+BA in CS
+BS in CS
+
 ### UW
 
 ### UW-B
 
 ### [UW-T](https://tacoma.uw.edu/set)
+
+About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major.
+
+BA in CS
+BS in CS
 
 ### [WWU](https://cs.wwu.edu)
 
