@@ -44,7 +44,7 @@ Second largest program (# of graduates) in the state. Teaching university, lots 
 
 Brian Kamp, Senior Lecturer, bkamp@ewu.edu
 
-Margo Stanzak, mstanzak
+Margo Stanzak, mstanzak@ewu.edu
 
 ### [Green River College]()
 
@@ -58,7 +58,7 @@ BS in CS
 
 ### [Seattle University]()
 
-### [UW]()
+### [UW](https://uw.edu)
 
 ### [UW-Bothell](https://bothell.uw.edu)
 
