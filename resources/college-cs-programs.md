@@ -68,7 +68,7 @@ BS in CS
 
 About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major. Harder to get into the major than UW-Bothell.
 
-**[School of Engineering & Technology
+**[School of Engineering & Technology](https://tacoma.uw.edu/set):**
 BA in CS
 BS in CS
 
