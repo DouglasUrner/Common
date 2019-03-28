@@ -6,7 +6,7 @@ Research (R1) vs. teaching schools. Both have their place, but there is a big im
 
 ## Local
 
-### [Bellevue College](https://www.bellevuecollege.edu/cs)
+### [Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA
 
 Small program, right now acceptance into BC is pretty much a guarantee of admission to the major.
 
@@ -49,22 +49,22 @@ Margo Stanzak, mstanzak@ewu.edu
 ### [Green River College]()
 
 
-### [PLU](https://www.plu.edu/computer-science/)
+### [PLU](https://www.plu.edu/computer-science/) - Tacoma, WA
 
 About 200, 6 CS faculty. Admission to school ensures admission to major.
 
 BA in CS
 BS in CS
 
-### [Seattle University]()
+### [Seattle University]() - Seattle, WA
 
-### [UW](https://uw.edu)
+### [UW](https://uw.edu) - Seattle, WA
 
 [Computer Science](https://cs.uw.edu)
 
-### [UW-Bothell](https://bothell.uw.edu)
+### [UW-Bothell](https://bothell.uw.edu) - Bathell, WA
 
-### [UW-Tacoma](https://tacoma.uw.edu)
+### [UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
 
 About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major. Harder to get into the major than UW-Bothell.
 
@@ -72,7 +72,7 @@ About 400 majors in all CS related programs. Mostly transfer students - competit
 BA in CS
 BS in CS
 
-### [WWU](https://wwu.edu)
+### [WWU](https://wwu.edu) - Bellingham, WA
 
 **Programs:**
 * [CS](https://cs.wwu.edu)
@@ -88,17 +88,17 @@ BS in CS
 
 ### [Cal Tech](https://caltech.edu)
 
-### [CMU](https://cmu.edu)
+### [CMU](https://cmu.edu) - Pittsburgh, WA
 
 50% women - the only program in the country with gender parity. 25% traditionally underserved populations. Admits about 5%, looks for passion about how you will use CS to make the world a better place. Admission to CMU guarantees a place in the program.
 
 Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
 
-### [MIT](https://mit.edu)
+### [MIT](https://mit.edu) - Cambridge, MA
 
-### [UBC](https://ubc.ca)
+### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
 
-### [UC Berkeley](https://berkeley.edu)
+### [UC Berkeley](https://berkeley.edu), Berkeley, CA
 
 ### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
 
