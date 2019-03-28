@@ -86,7 +86,7 @@ BS in CS
 
 ## Out of Area
 
-### [Cal Tech](https://caltech.edu)
+### [Cal Tech](https://caltech.edu) - Pasadena, CA
 
 ### [CMU](https://cmu.edu) - Pittsburgh, WA
 
