@@ -1,5 +1,9 @@
 # Game Design Programs
 
-At schools without a strong CS program.
+USC
+
+Michigan State University
 
 UC Santa Cruz
+
+Digipen (good, narrowly focused, expensive)
