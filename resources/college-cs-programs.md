@@ -62,7 +62,7 @@ BS in CS
 
 [Computer Science](https://cs.uw.edu)
 
-### [UW-Bothell](https://bothell.uw.edu) - Bathell, WA
+### [UW-Bothell](https://bothell.uw.edu) - Bothell, WA
 
 ### [UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
 
