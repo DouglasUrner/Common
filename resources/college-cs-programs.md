@@ -46,7 +46,7 @@ Brian Kamp, Senior Lecturer, bkamp@ewu.edu
 
 Margo Stanzak, mstanzak@ewu.edu
 
-### [Green River College]()
+### [Green River College](https://greenriver.edu) - Auburn, WA
 
 
 ### [PLU](https://www.plu.edu/computer-science/) - Tacoma, WA
