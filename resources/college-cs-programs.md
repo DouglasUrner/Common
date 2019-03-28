@@ -60,6 +60,8 @@ BS in CS
 
 ### [UW](https://uw.edu)
 
+[Computer Science](https://cs.uw.edu)
+
 ### [UW-Bothell](https://bothell.uw.edu)
 
 ### [UW-Tacoma](https://tacoma.uw.edu)
