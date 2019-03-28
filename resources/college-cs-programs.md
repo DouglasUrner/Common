@@ -60,16 +60,25 @@ BS in CS
 
 ### [UW]()
 
-### [UW-B]()
+### [UW-Bothell](https://bothell.uw.edu)
 
-### [UW-T](https://tacoma.uw.edu/set)
+### [UW-Tacoma](https://tacoma.uw.edu)
 
-About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major.
+About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major. Harder to get into the major than UW-Bothell.
 
+**[School of Engineering & Technology
 BA in CS
 BS in CS
 
-### [WWU](https://cs.wwu.edu)
+### [WWU](https://wwu.edu)
+
+**Programs:**
+* [CS](https://cs.wwu.edu)
+
+**Transfering:**
+* No direct admission to major.
+* GPA of 3.0 or better in weeder classes == very likely to be admitted.
+* Admission is on space available basis (there are a few seats reserved for transfer students).
 
 [Association for Women In Computing](https://wwu-awc.github.io) - awc.wwu@gmail.com
 
