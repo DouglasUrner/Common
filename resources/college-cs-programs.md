@@ -86,7 +86,7 @@ BS in CS
 
 ## Out of Area
 
-### [Cal Tech]()
+### [Cal Tech](https://caltech.edu)
 
 ### [CMU](https://cmu.edu)
 
@@ -94,11 +94,11 @@ BS in CS
 
 Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
 
-### [MIT]()
+### [MIT](https://mit.edu)
 
-### [UBC]()
+### [UBC](https://ubc.ca)
 
-### [UC Berkeley]()
+### [UC Berkeley](https://berkeley.edu)
 
 ### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
 
