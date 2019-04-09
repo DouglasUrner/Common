@@ -62,6 +62,8 @@ BS in CS
 
 [Computer Science](https://cs.uw.edu)
 
+[UW Women in Science and Engineering (WiSE) Collective](mailto:uwwise@uw.edu) - e-mail link
+
 ### [UW-Bothell](https://bothell.uw.edu) - Bothell, WA
 
 ### [UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
