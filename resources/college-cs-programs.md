@@ -129,6 +129,8 @@ Computational Biology
 
 ### General
 
-### Women in CS
+### Women in STEM
+
+* [EngineerGirl.org](https://www.engineergirl.org) list of [Scholarships](https://www.engineergirl.org/9539/Scholarships)
 
 ### LGBTQ People in CS
