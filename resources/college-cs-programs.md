@@ -133,6 +133,6 @@ Computational Biology
 
 * [EngineerGirl.org](https://www.engineergirl.org) list of [Scholarships](https://www.engineergirl.org/9539/Scholarships)
 
-### LGBTQ People in CS
+### LGBTQ People in STEM
 
 * [NOLGSTP](https://www.noglstp.org) (National Organization of Gay & Lesbian Scientists and Technical Professionals) list of [Scholarships](https://www.noglstp.org/programs-projects/scholarships/)
