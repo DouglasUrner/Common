@@ -4,7 +4,7 @@
 
 Research (R1) vs. teaching schools. Both have their place, but there is a big impact on the "fit" for students.
 
-## Local
+## In-State (Washington) Schools
 
 ### [Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA
 
@@ -58,7 +58,7 @@ BS in CS
 
 ### [Seattle University]() - Seattle, WA
 
-### [UW](https://uw.edu) - Seattle, WA
+### [University of Washington (UW)](https://uw.edu) - Seattle, WA
 
 [Computer Science](https://cs.uw.edu)
 
@@ -74,7 +74,7 @@ About 400 majors in all CS related programs. Mostly transfer students - competit
 BA in CS
 BS in CS
 
-### [WWU](https://wwu.edu) - Bellingham, WA
+### [Western Washington University (WWU)](https://wwu.edu) - Bellingham, WA
 
 **Programs:**
 * [CS](https://cs.wwu.edu)
@@ -117,10 +117,18 @@ Marie Wagner mariew@uidaho.edu also watches engr-sss@uidaho.edu
 
 Society of Women Engineers, Beth Rezaie, SWE Advisor, rezaie@uidaho.edu
 
-## Summer Institutes
+## Summer (Pre-College) Programs
 
 ### [CMU Summer Access](https://admission.cmu.edu/pages/summer-access-opportunities)
 
 National High School Game Academy
 
 Computational Biology
+
+## Scholarships
+
+### General
+
+### Women in CS
+
+### LGBTQ People in CS
