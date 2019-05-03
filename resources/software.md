@@ -9,6 +9,12 @@
 
 ## Game Design
 
+### Collaboration & Source Code Management
+
+* [Git](https://git-scm.org)
+* [GitHub](https://github.com) - free Git repository hosting and static web sites.
+  - [GitHub Desktop]() - GUI front-end for working with Git and GitHub.
+
 ### Editors
 
 * [Atom](https://atom.io) - "hackable" editor for writing program code & documentation.
@@ -17,4 +23,4 @@
 
 ### Game Engines
 
-
+* [Unity](https://unity3d.com)
