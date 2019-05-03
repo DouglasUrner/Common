@@ -11,8 +11,9 @@
 
 ### Editors
 
-* [Atom](https://atom.io) - "hackable" editor for writing program code & documentation
-* [JetBrains InteliJ IDEA](https://www.jetbrains.com/idea/) - Java IDE that supports additional languges - Community Edition is free, used in AP CS A
+* [Atom](https://atom.io) - "hackable" editor for writing program code & documentation.
+* [JetBrains InteliJ IDEA](https://www.jetbrains.com/idea/) - specialized IDE for Java that also supports additional languges - Community Edition is free, used in AP CS A.
+* [JetBrains Rider](https://www.jetbrains.com/idea/) - specialized IDE for C# - free student licences are available from JetBrains and through GitHub, used in Game Design & Programming II.
 
 ### Game Engines
 
