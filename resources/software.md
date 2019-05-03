@@ -1,4 +1,4 @@
-# Low Cost Software
+# Low Cost Software & Tools for Programmers and Game Developers
 
 ## Animation & Game Art
 
