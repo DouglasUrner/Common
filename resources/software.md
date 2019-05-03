@@ -8,3 +8,12 @@
 * [Synfig](https://www.synfig.org/) - 2D animation
 
 ## Game Design
+
+### Editors
+
+* [Atom](https://atom.io) - "hackable" editor for writing program code & documentation
+* [JetBrains InteliJ IDEA](https://www.jetbrains.com/idea/) - Java IDE that supports additional languges - Community Edition is free, used in AP CS A
+
+### Game Engines
+
+
