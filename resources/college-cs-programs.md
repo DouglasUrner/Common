@@ -100,6 +100,16 @@ BS in CS
 
 Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
 
+### [Harvey Mudd College](https://www.hmc.edu) - Claremont, CA
+
+**Computer Science**
+
+* [Computer Science Major](https://www.cs.hmc.edu/program/cs-major)
+* [Joint Major in Computer Science and Mathematics](https://www.cs.hmc.edu/program/csmath-major)
+* [Mathematical and Computational Biology Major](https://www.cs.hmc.edu/program/csmathbio-major)
+
+HMC also offers [summer research opportunities](https://www.cs.hmc.edu/research/) for undergraduates - this program is open to students from other schools as well as Harvey Mudd students.
+
 ### [MIT](https://mit.edu) - Cambridge, MA
 
 ### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
