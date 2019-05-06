@@ -60,7 +60,7 @@ BS in CS
 
 ### [University of Washington (UW)](https://uw.edu) - Seattle, WA
 
-[Computer Science](https://cs.uw.edu)
+[Computer Science](https://cs.uw.edu) - The CS program gets *way* more applicants than they can accept. Apply for [direct admission]() so that you know you will be able to study CS at UW, if you get in to the UW, but are not accepted into the CS program as a freshman, you can still apply when you declare your major - but you may not be acceted. *So* if you are serious about CS, apply for direct admission and if you are not accepted, seriously consider a different school.
 
 [UW Women in Science and Engineering (WiSE) Collective](mailto:uwwise@uw.edu) - e-mail link
 
