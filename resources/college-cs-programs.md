@@ -116,6 +116,12 @@ HMC also offers [summer research opportunities](https://www.cs.hmc.edu/research/
 
 ### [MIT](https://mit.edu) - Cambridge, MA
 
+### [Swarthmore College](https://www.swarthmore.edu) - Swarthmore, PA (outside of Philedelphia)
+
+**[Computer Science](https://www.swarthmore.edu/computer-science)**
+
+
+
 ### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
 
 ### [UC Berkeley](https://berkeley.edu), Berkeley, CA
