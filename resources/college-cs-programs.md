@@ -155,6 +155,9 @@ Computational Biology
 
 ## Scholarships
 
+* [Washington State Opportunity Scholarship](https://www.waopportunityscholarship.org)  
+Scholarships for students pursuing STEM careers, supports students in 2- and 4-year programs.
+
 ### General
 
 ### Women in STEM
