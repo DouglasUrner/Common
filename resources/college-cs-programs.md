@@ -102,6 +102,10 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 
 ### [Harvey Mudd College](https://www.hmc.edu) - Claremont, CA
 
+Harvey Mudd College (HMC) is a small (800 students) liberal arts school which the Business Insider describes as "[an engineering, science, and mathematics powerhouse](https://www.businessinsider.com/harvey-mudd-college-curriculum-computer-science-2017-3)." US News & World report ranks HMC as the number one engineering school in the country.
+
+Harvey Mudd requires all students to take an introductory CS course, and according to the LA Times, this a led to [gender parity in the CS department](https://www.latimes.com/local/lanow/la-me-ln-harvey-mudd-tech-women-adv-snap-story.html).
+
 **Computer Science**
 
 * [Computer Science Major](https://www.cs.hmc.edu/program/cs-major)
