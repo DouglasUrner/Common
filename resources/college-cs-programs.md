@@ -125,6 +125,10 @@ National High School Game Academy
 
 Computational Biology
 
+## Gap Year Programs
+
+[Omprakash](https://www.omprakash.org/)
+
 ## Scholarships
 
 ### General
