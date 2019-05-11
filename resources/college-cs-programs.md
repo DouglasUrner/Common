@@ -60,6 +60,8 @@ BS in CS
 
 ### [University of Washington (UW)](https://uw.edu) - Seattle, WA
 
+The UW CS program is one of the best in the country - but it is not for everyone, the program is large and for most students not accessible until your junior year.
+
 [Paul G. Allen School of Computer Science & Engineering](https://cs.uw.edu) - The CS program gets *way* more applicants than they can accept. Apply for [direct admission](https://www.cs.washington.edu/academics/ugrad/admissions/direct) so that you know you will be able to study CS at UW, if you get in to the UW, but are not accepted into the CS program as a freshman, you can still apply when you declare your major - but you may not be acceted. *So* if you are serious about CS, apply for direct admission and if you are not accepted, seriously consider a different school. You may want to look at these pages as well:
 
 * [Expanded Direct to Major Admission in Computer Science
