@@ -66,6 +66,8 @@ BS in CS
 ](https://www.cs.washington.edu/academics/ugrad/admissions/dtm)
 * [UW’s Allen School to expand direct freshmen admissions in computer science](https://www.washington.edu/news/2018/06/05/uws-allen-school-to-expand-direct-freshmen-admissions-in-computer-science/)
 
+Even with direct admit and honors, it sounds like there are a lot of "hoops" to be jumped through before you are able to start serious work in CS. Smaller schools can offer more flexible programs.
+
 [UW Women in Science and Engineering (WiSE) Collective](mailto:uwwise@uw.edu) - e-mail link
 
 ### [UW-Bothell](https://bothell.uw.edu) - Bothell, WA
