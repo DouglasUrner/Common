@@ -1,6 +1,6 @@
 # CP: **Collaborating with peers** on computing activities
 
-  ***Collaboration:*** Working with others to solve a acheive a goal. This includes the interpersonal skills, the processes, and the tools to communicate amoungst the stakeholders and track the work.
+***Collaboration:*** Working with others to solve a acheive a goal. This includes the interpersonal skills, the processes, and the tools to communicate amoungst the stakeholders and track the work.
 
 ***Peers:*** The people on your team ***and*** the people that you interact with as you work.
 
