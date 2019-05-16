@@ -9,12 +9,12 @@ The tasks themselves are derived from the work done by the developers of the [Ex
 * **Applying abstractions** and models (AA)
 * **Analyzing** their computational **work** and the work of others (AW)
 * **Communicating** computational thought processes, procedures, and **results** to others (CR)
-* **Collaborating with peers** on computing activities (CP)
+* **Collaborating with peers** on computing activities ([CP][])
 
 [aa]: <>
 [ae]: <ae>
 [aw]: <>
-[cp]: <>
+[cp]: <cp>
 [cr]: <>
 [di]: <>
 
