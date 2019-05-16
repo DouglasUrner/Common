@@ -11,11 +11,11 @@ The tasks themselves are derived from the work done by the developers of the [Ex
 * **Communicating** computational thought processes, procedures, and **results** to others (CR)
 * **Collaborating with peers** on computing activities ([CP][])
 
-[aa]: <>
+[aa]: <aa>
 [ae]: <ae>
-[aw]: <>
+[aw]: <aw>
 [cp]: <cp>
-[cr]: <>
-[di]: <>
+[cr]: <cr>
+[di]: <di>
 
 [ecs]: <#>
