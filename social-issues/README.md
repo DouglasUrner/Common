@@ -1,6 +1,6 @@
 The advent of the personal computer in the early 1980s coincides with the downturn of women in computer science. Prior to 1984 the number of women, and the percentage of women, studying computer science had been rising steadily since the 1960s. The percentage of women in computer science has been in a decline since then.
 
-![](assets/NPR-number-of-women-in-cs.png)
+<img src="assets/NPR-number-of-women-in-cs.png" width=60%>
 
 Search "early computer marketing gender gap radio shack"
 
