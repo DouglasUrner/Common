@@ -7,4 +7,4 @@ Search "early computer marketing gender gap radio shack"
 * [Getting with the Program](https://www.womenshistory.org/resources/lesson-plan/getting-program)
 
 History of computer games:
-* [](https://www.gamasutra.com/view/feature/182224/games_from_the_trash_the_history_.php)
+* [Games from the Trash: The History of the TRS-80](https://www.gamasutra.com/view/feature/182224/games_from_the_trash_the_history_.php)
