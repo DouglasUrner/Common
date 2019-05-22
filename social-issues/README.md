@@ -1,4 +1,4 @@
-
+The advent of the personal computer in the early 1980s coincides with the downturn of women in computer science. Prior to 1984 the number of women, and the percentage of women, studying computer science had been rising steadily since the
 Search "early computer marketing gender gap radio shack"
 * [Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/)
 * [When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
