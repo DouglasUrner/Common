@@ -12,3 +12,4 @@ Search "early computer marketing gender gap radio shack"
 
 History of computer games:
 * [Games from the Trash: The History of the TRS-80](https://www.gamasutra.com/view/feature/182224/games_from_the_trash_the_history_.php)
+* [I Put A Trans Character In A Game And Gamers Went Insane](https://www.cracked.com/personal-experiences-2284-i-put-trans-character-in-game-gamers-went-insane.html) - good background on transphobic behavior in parts of the gaming world, and it's impact on trans and non-binary people.
