@@ -92,7 +92,10 @@ BA in CS
 BS in CS
 </details>
 
-<details><summary><strong>[Western Washington University (WWU)](https://wwu.edu) - Bellingham, WA</strong></summary>
+<details>
+  <summary><strong>
+    <a href="https://wwu.edu">Western Washington University (WWU) - Bellingham, WA</a>
+  </strong></summary>
 
 **Programs:**
 * [CS](https://cs.wwu.edu)
