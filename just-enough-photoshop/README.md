@@ -5,6 +5,10 @@ Essential image manipulation skills for web and game designers - and how to do t
 ## Essential Skills
 
 * [File Formats]()
+  - Transparency
+  - Lossy vs. Lossless Compression
+  - Layers
+  - Converting Between Formats
 * [Resizing An Image]()
 * [Removing Backgrounds]() - making selections
 * [Using Layers]()
