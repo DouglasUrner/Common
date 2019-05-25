@@ -11,3 +11,6 @@ Essential Photoshop skills for web and game designers - with some GIMP for good 
 * [Creating A Sprite Sheet]()
 
 ## Alternatives To Photoshop
+
+* [Trial]()
+* [GIMP]()
