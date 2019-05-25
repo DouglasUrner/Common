@@ -94,17 +94,15 @@ BS in CS
 
 [Association for Women In Computing](https://wwu-awc.github.io) - awc.wwu@gmail.com
 
-## Out of Area
+## Out of State
 
-### [Cal Tech](https://caltech.edu) - Pasadena, CA
+### California
 
-### [CMU](https://cmu.edu) - Pittsburgh, WA
+#### [Cal Poly]() - San Luis Obispo, CA
 
-50% women - the only program in the country with gender parity. 25% traditionally underserved populations. Admits about 5%, looks for passion about how you will use CS to make the world a better place. Admission to CMU guarantees a place in the program.
+#### [Cal Tech](https://caltech.edu) - Pasadena, CA
 
-Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
-
-### [Harvey Mudd College](https://www.hmc.edu) - Claremont, CA
+#### [Harvey Mudd College](https://www.hmc.edu) - Claremont, CA
 
 Harvey Mudd College (HMC) is a small (800 students) liberal arts school which the Business Insider describes as "[an engineering, science, and mathematics powerhouse](https://www.businessinsider.com/harvey-mudd-college-curriculum-computer-science-2017-3)." US News & World report ranks HMC as the number one engineering school in the country.
 
@@ -118,17 +116,9 @@ Harvey Mudd requires all students to take an introductory CS course, and accordi
 
 HMC also offers [summer research opportunities](https://www.cs.hmc.edu/research/) for undergraduates - this program is open to students from other schools as well as Harvey Mudd students.
 
-### [MIT](https://mit.edu) - Cambridge, MA
+#### [UC Berkeley](https://berkeley.edu), Berkeley, CA
 
-### [Swarthmore College](https://www.swarthmore.edu) - Swarthmore, PA (outside of Philedelphia)
-
-**[Computer Science](https://www.swarthmore.edu/computer-science)**
-
-
-
-### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
-
-### [UC Berkeley](https://berkeley.edu), Berkeley, CA
+### Idaho
 
 ### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
 
@@ -144,6 +134,28 @@ Paulette House, Director of Student Services, College of Engineering, 208.885.97
 Marie Wagner mariew@uidaho.edu also watches engr-sss@uidaho.edu
 
 Society of Women Engineers, Beth Rezaie, SWE Advisor, rezaie@uidaho.edu
+
+### Massachusets
+
+### [MIT](https://mit.edu) - Cambridge, MA
+
+### Pensylvania
+
+#### [CMU](https://cmu.edu) - Pittsburgh, WA
+
+50% women - the only program in the country with gender parity. 25% traditionally underserved populations. Admits about 5%, looks for passion about how you will use CS to make the world a better place. Admission to CMU guarantees a place in the program.
+
+Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
+
+### [Swarthmore College](https://www.swarthmore.edu) - Swarthmore, PA (outside of Philedelphia)
+
+**[Computer Science](https://www.swarthmore.edu/computer-science)**
+
+## Out of the Country
+
+### Canada
+
+#### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
 
 ## Summer (Pre-College) Programs
 
