@@ -18,7 +18,6 @@ Degrees:
 * BAS in Information Systems & Technology
 </details>
 
-
 <details><summary><strong>[CWU](https://cwu.edu), Ellensburg, WA</strong></summary>
 
 Teaching university.
@@ -52,10 +51,8 @@ Brian Kamp, Senior Lecturer, bkamp@ewu.edu
 Margo Stanzak, mstanzak@ewu.edu
 </details>
 
-
 <details><summary><strong>[Green River College](https://greenriver.edu) - Auburn, WA</strong></summary>
 </details>
-
 
 <details><summary><strong>[PLU](https://www.plu.edu/computer-science/) - Tacoma, WA</strong></summary>
 
@@ -83,10 +80,10 @@ Even with direct admit and honors, it sounds like there are a lot of "hoops" to 
 [UW Women in Science and Engineering (WiSE) Collective](mailto:uwwise@uw.edu) - e-mail link
 </details>
 
-<details><summary><strong>[UW-Bothell](https://bothell.uw.edu) - Bothell, WA
+<details><summary><strong>[UW-Bothell](https://bothell.uw.edu) - Bothell, WA</strong></summary>
 </details>
 
-<details><summary><strong>[UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
+<details><summary><strong>[UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA</strong></summary>
 
 About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major. Harder to get into the major than UW-Bothell.
 
