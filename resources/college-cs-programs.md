@@ -8,7 +8,7 @@ Research schools without PhD programs (e.g., Cal Poly) often offer greater oppor
 
 ## In-State (Washington) Schools
 
-### [Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA
+<details><summary><strong>[Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA</strong></summary>
 
 Small program, right now acceptance into BC is pretty much a guarantee of admission to the major.
 
@@ -16,8 +16,10 @@ Degrees:
 * BS in CS
 * BAS in Data Analytics
 * BAS in Information Systems & Technology
+</details>
 
-### [CWU](https://cwu.edu), Ellensburg, WA
+
+<details><summary><strong>[CWU](https://cwu.edu), Ellensburg, WA</strong></summary>
 
 Teaching university.
 
@@ -28,8 +30,10 @@ Teaching university.
 **Contacts:**
 
 Megan McConnell, megan.mcconnell@cwu.edu, Advisor & Recruiter, Department of Computer Science, 509.963.1455
+</details>
 
-### [EWU](https://www.ewu.edu), Cheney, WA
+
+<details><summary><strong>[EWU](https://www.ewu.edu), Cheney, WA</strong></summary>
 
 Second largest program (# of graduates) in the state. Teaching university, lots of ethnic diversity in the program. Focus on hands on learning and supporting opportunities for internships (students take lead). Accepts (and succussfully trains and graduates) students with GPAs in the 3+ range. Good option for students who might not make it into the UW program.
 
@@ -47,20 +51,24 @@ Second largest program (# of graduates) in the state. Teaching university, lots 
 Brian Kamp, Senior Lecturer, bkamp@ewu.edu
 
 Margo Stanzak, mstanzak@ewu.edu
+</details>
 
-### [Green River College](https://greenriver.edu) - Auburn, WA
+
+<details><summary><strong>[Green River College](https://greenriver.edu) - Auburn, WA</strong></summary>
 
 
-### [PLU](https://www.plu.edu/computer-science/) - Tacoma, WA
+<details><summary><strong>[PLU](https://www.plu.edu/computer-science/) - Tacoma, WA</strong></summary>
 
 About 200, 6 CS faculty. Admission to school ensures admission to major.
 
 BA in CS
 BS in CS
+</details>
 
-### [Seattle University]() - Seattle, WA
+<details><summary><strong>[Seattle University]() - Seattle, WA</strong></summary>
+</details>
 
-### [University of Washington (UW)](https://uw.edu) - Seattle, WA
+<details><summary><strong>[University of Washington (UW)](https://uw.edu) - Seattle, WA</strong></summary>
 
 The UW CS program is one of the best in the country - but it is not for everyone, the program is large and for most students not accessible until your junior year.
 
@@ -73,18 +81,21 @@ The UW CS program is one of the best in the country - but it is not for everyone
 Even with direct admit and honors, it sounds like there are a lot of "hoops" to be jumped through before you are able to start serious work in CS. Smaller schools can offer more flexible programs.
 
 [UW Women in Science and Engineering (WiSE) Collective](mailto:uwwise@uw.edu) - e-mail link
+</details>
 
-### [UW-Bothell](https://bothell.uw.edu) - Bothell, WA
+<details><summary><strong>[UW-Bothell](https://bothell.uw.edu) - Bothell, WA
+</details>
 
-### [UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
+<details><summary><strong>[UW-Tacoma](https://tacoma.uw.edu) - Tacoma, WA
 
 About 400 majors in all CS related programs. Mostly transfer students - competitive admission to major. Harder to get into the major than UW-Bothell.
 
 **[School of Engineering & Technology](https://tacoma.uw.edu/set):**
 BA in CS
 BS in CS
+</details>
 
-### [Western Washington University (WWU)](https://wwu.edu) - Bellingham, WA
+<details><summary><strong>[Western Washington University (WWU)](https://wwu.edu) - Bellingham, WA</strong></summary>
 
 **Programs:**
 * [CS](https://cs.wwu.edu)
@@ -95,6 +106,7 @@ BS in CS
 * Admission is on space available basis (there are a few seats reserved for transfer students).
 
 [Association for Women In Computing](https://wwu-awc.github.io) - awc.wwu@gmail.com
+</details>
 
 ## Out of State
 
