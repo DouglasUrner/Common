@@ -1,6 +1,6 @@
 # Just Enough Photoshop
 
-Essential Photoshop skills for web and game designers - with some GIMP for good measure.
+Essential image manipulation skills for web and game designers - and how to do them in Photoshap, with some GIMP thrown in for good measure.
 
 ## Essential Skills
 
