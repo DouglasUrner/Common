@@ -101,7 +101,7 @@ BS in CS
 * [CS](https://cs.wwu.edu)
 
 **Transfering:**
-* No direct admission to major.
+* As of the spring of 2019, there was no direct admission to major.
 * GPA of 3.0 or better in weeder classes == very likely to be admitted.
 * Admission is on space available basis (there are a few seats reserved for transfer students).
 
@@ -110,9 +110,9 @@ BS in CS
 
 ### For-Profit Schools
 
-* Academy of Interactive Entertainment
-* Digipen
-* Lake Washington Technical
+* <details><summary>Academy of Interactive Entertainment</summary></details>
+* <details><summary>Digipen</summary></details>
+* <details><summary>Lake Washington Technical</summary></details>
 
 ## Out of State
 
