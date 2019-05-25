@@ -4,6 +4,8 @@
 
 Research (R1) vs. teaching schools. Both have their place, but there is a big impact on the "fit" for students.
 
+Research schools without PhD programs (e.g., Cal Poly) often offer greater opportunities for undergraduates than schools with PhD programs.
+
 ## In-State (Washington) Schools
 
 ### [Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA
