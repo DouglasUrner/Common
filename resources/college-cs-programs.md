@@ -96,7 +96,8 @@ BS in CS
 
 ## Out of State
 
-### California
+<details>
+  <summary><h3>California</h3><summary>
 
 #### [Cal Poly]() - San Luis Obispo, CA
 
@@ -117,6 +118,7 @@ Harvey Mudd requires all students to take an introductory CS course, and accordi
 HMC also offers [summer research opportunities](https://www.cs.hmc.edu/research/) for undergraduates - this program is open to students from other schools as well as Harvey Mudd students.
 
 #### [UC Berkeley](https://berkeley.edu), Berkeley, CA
+</details>
 
 ### Idaho
 
