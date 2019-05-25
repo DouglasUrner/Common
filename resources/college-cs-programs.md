@@ -120,7 +120,7 @@ HMC also offers [summer research opportunities](https://www.cs.hmc.edu/research/
 #### [UC Berkeley](https://berkeley.edu), Berkeley, CA
 </details>
 
-### Idaho
+<details><summary><strong>Idaho</strong></summary>
 
 ### [University of Idaho College of Engineering](https://uidaho.edu/engr) Moscow, ID
 
@@ -136,10 +136,12 @@ Paulette House, Director of Student Services, College of Engineering, 208.885.97
 Marie Wagner mariew@uidaho.edu also watches engr-sss@uidaho.edu
 
 Society of Women Engineers, Beth Rezaie, SWE Advisor, rezaie@uidaho.edu
+</details>
 
-### Massachusets
+<details><summary><strong>Massachusets</strong></summary>
 
 ### [MIT](https://mit.edu) - Cambridge, MA
+</details>
 
 ### Pensylvania
 
