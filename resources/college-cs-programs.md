@@ -145,17 +145,19 @@ Society of Women Engineers, Beth Rezaie, SWE Advisor, rezaie@uidaho.edu
 ### [MIT](https://mit.edu) - Cambridge, MA
 </details>
 
-### Pensylvania
+<details><summary><strong>Pensylvania</strong></summary>
 
 #### [CMU](https://cmu.edu) - Pittsburgh, WA
 
-50% women - the only program in the country with gender parity. 25% traditionally underserved populations. Admits about 5%, looks for passion about how you will use CS to make the world a better place. Admission to CMU guarantees a place in the program.
+50% women - one of the few programs in the country with gender parity. 25% traditionally underserved populations. Admits about 5%, looks for passion about how you will use CS to make the world a better place. Admission to CMU guarantees a place in the program.
 
 Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412.268.8558
 
 ### [Swarthmore College](https://www.swarthmore.edu) - Swarthmore, PA (outside of Philedelphia)
 
 **[Computer Science](https://www.swarthmore.edu/computer-science)**
+
+</details>
 
 ## Out of the Country
 
