@@ -32,7 +32,6 @@ Teaching university.
 Megan McConnell, megan.mcconnell@cwu.edu, Advisor & Recruiter, Department of Computer Science, 509.963.1455
 </details>
 
-
 <details><summary><strong>[EWU](https://www.ewu.edu), Cheney, WA</strong></summary>
 
 Second largest program (# of graduates) in the state. Teaching university, lots of ethnic diversity in the program. Focus on hands on learning and supporting opportunities for internships (students take lead). Accepts (and succussfully trains and graduates) students with GPAs in the 3+ range. Good option for students who might not make it into the UW program.
@@ -55,6 +54,7 @@ Margo Stanzak, mstanzak@ewu.edu
 
 
 <details><summary><strong>[Green River College](https://greenriver.edu) - Auburn, WA</strong></summary>
+</details>
 
 
 <details><summary><strong>[PLU](https://www.plu.edu/computer-science/) - Tacoma, WA</strong></summary>
