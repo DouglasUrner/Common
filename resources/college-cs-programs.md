@@ -108,12 +108,6 @@ BS in CS
 [Association for Women In Computing](https://wwu-awc.github.io) - awc.wwu@gmail.com
 </details>
 
-### For-Profit Schools
-
-<details><summary>Academy of Interactive Entertainment</summary></details>
-<details><summary>Digipen</summary></details>
-<details><summary>Lake Washington Technical</summary></details>
-
 ## Out of State
 
 <details>
