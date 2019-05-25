@@ -97,7 +97,7 @@ BS in CS
 ## Out of State
 
 <details>
-  <summary><h3>California</h3><summary>
+  <summary><strong>California</strong></summary>
 
 #### [Cal Poly]() - San Luis Obispo, CA
 
