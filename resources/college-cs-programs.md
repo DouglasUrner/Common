@@ -8,7 +8,7 @@ Research schools without PhD programs (e.g., Cal Poly) often offer greater oppor
 
 ## In-State (Washington) Schools
 
-<details><summary><strong>[Bellevue College](https://www.bellevuecollege.edu/cs), Bellevue, WA</strong></summary>
+<details><summary><strong><a href="https://www.bellevuecollege.edu/cs">Bellevue College</a>, Bellevue, WA</strong></summary>
 
 Small program, right now acceptance into BC is pretty much a guarantee of admission to the major.
 
