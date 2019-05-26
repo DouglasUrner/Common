@@ -101,6 +101,8 @@ BS in CS
 **Programs:**
 * [CS](https://cs.wwu.edu)
 
+WWU has a strong cyber security program.
+
 **Transfering:**
 * As of the spring of 2019, there was no direct admission to major.
 * GPA of 3.0 or better in weeder classes == very likely to be admitted.
