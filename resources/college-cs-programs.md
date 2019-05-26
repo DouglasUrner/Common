@@ -18,7 +18,8 @@ Degrees:
 * BAS in Information Systems & Technology
 </details>
 
-<details><summary><strong>[CWU](https://cwu.edu), Ellensburg, WA</strong></summary>
+<details>
+  <summary><strong><a href="https://cwu.edu">Central Washington University (CWU)</a>, Ellensburg, WA</strong></summary>
 
 Teaching university.
 
