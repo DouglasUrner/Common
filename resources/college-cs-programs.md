@@ -55,12 +55,14 @@ Margo Stanzak, mstanzak@ewu.edu
 <details><summary><strong>[Green River College](https://greenriver.edu) - Auburn, WA</strong></summary>
 </details>
 
-<details><summary><strong>[PLU](https://www.plu.edu/computer-science/) - Tacoma, WA</strong></summary>
+<details><summary><strong><a href="https://www.plu.edu">Pacific Lutheran University (PLU)</a> - Tacoma, WA</strong></summary>
 
-About 200, 6 CS faculty. Admission to school ensures admission to major.
+About 200 students in the CS program, 6 CS faculty. Admission to school ensures admission to major.
 
-BA in CS
-BS in CS
+* [BA in CS][cs]
+* [BS in CS][cs]
+
+[cs]: <https://www.plu.edu/computer-science>
 </details>
 
 <details><summary><strong>[Seattle University]() - Seattle, WA</strong></summary>
