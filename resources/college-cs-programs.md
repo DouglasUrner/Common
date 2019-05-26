@@ -32,7 +32,7 @@ Teaching university.
 Megan McConnell, megan.mcconnell@cwu.edu, Advisor & Recruiter, Department of Computer Science, 509.963.1455
 </details>
 
-<details><summary><strong>[EWU](https://www.ewu.edu), Cheney, WA</strong></summary>
+<details><summary><strong><a href="https://www.ewu.edu">Eastern Washinton University (EWU)</a>, Cheney, WA</strong></summary>
 
 Second largest program (# of graduates) in the state. Teaching university, lots of ethnic diversity in the program. Focus on hands on learning and supporting opportunities for internships (students take lead). Accepts (and succussfully trains and graduates) students with GPAs in the 3+ range. Good option for students who might not make it into the UW program.
 
