@@ -182,6 +182,56 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 
 #### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
 
+### Asia
+
+<details><summary><strong><a href="">
+    National Taiwan University (NTU)
+  </a></strong></summary>
+  
+</details>
+
+<details><summary><strong><a href="">
+    Chinese University of Hong Kong (CUHK)
+  </a></strong></summary>
+  
+</details>
+
+<details><summary><strong><a href="">
+    The University of Hong Kong
+  </a></strong></summary>
+  
+</details>
+### EU
+
+### UK
+
+<details><summary><strong><a href="">
+    University College London (UCL)
+  </a></strong></summary>
+  
+</details>
+
+<details><summary><strong><a href="">
+    University of Edinburgh
+  </a></strong></summary>
+    
+</details>
+<details><summary><strong><a href="">
+    Imperial College London
+  </a></strong></summary>
+  
+</details>
+<details><summary><strong><a href="">
+    University of Oxford
+  </a></strong></summary>
+  
+</details>
+<details><summary><strong><a href="">
+    University of Cambridge
+  </a></strong></summary>
+  
+</details>
+
 ## Summer (Pre-College) Programs
 
 ### [CMU Summer Access](https://admission.cmu.edu/pages/summer-access-opportunities)
