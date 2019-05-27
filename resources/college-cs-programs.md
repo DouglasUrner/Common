@@ -200,7 +200,7 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
   
 </details>
 
-### Asia
+<details><summary><strong>Asia</strong></summary>
 
 <details><summary><strong><a href="">
     National Taiwan University (NTU)
@@ -219,10 +219,13 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
   </a></strong></summary>
   
 </details>
+</details>
 
-### EU
+<details><summary><strong>EU</strong></summary>
 
-### UK
+</details>
+
+<details><summary><strong>UK</strong></summary>
 
 <details><summary><strong><a href="">
     University College London (UCL)
@@ -250,6 +253,8 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
   </a></strong></summary>
   
 </details>
+</details>
+
 
 ## Summer (Pre-College) Programs
 
