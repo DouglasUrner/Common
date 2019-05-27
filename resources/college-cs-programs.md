@@ -180,7 +180,11 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 
 ### Canada
 
-#### [UBC](https://ubc.ca) - Vancouver, British Columbia, Canada
+<details><summary><strong><a href="https://ubc.ca">
+    University of British Columbia (UBC)
+  </a></strong> - Vancouver, British Columbia</summary>
+  
+</details>
 
 ### Asia
 
@@ -201,6 +205,7 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
   </a></strong></summary>
   
 </details>
+
 ### EU
 
 ### UK
