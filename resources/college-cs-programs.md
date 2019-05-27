@@ -178,17 +178,17 @@ Ashley Patton, Director of Engagement and Outreach, awpatton@andrew.cmu.edu, 412
 
 ## Out of the Country
 
-<details><summary><strong>Canada</strong>/summary>
+<details><summary><strong>Canada</strong></summary>
   
-  <details><summary><strong><a href="">
-      
-    </a></strong> - Vancouver, British Columbia</summary>
+  <details><summary><strong><a href="https://uwaterloo.ca/">
+      University of Waterloo
+    </a></strong> - Waterloo, Ontario</summary>
 
   </details>
   
-    <details><summary><strong><a href="">
-      
-    </a></strong> - Vancouver, British Columbia</summary>
+    <details><summary><strong><a href="https://www.utoronto.ca/">
+      University of Toronto
+    </a></strong> - Toronto, Ontario</summary>
 
   </details>
 
