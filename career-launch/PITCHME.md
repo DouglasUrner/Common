@@ -68,6 +68,11 @@ Note:
 
 Note:
 
+Starting out "experience" is anything that shows that you have *some* "industrial strength" technical skills (Game Lab: not so much; JavaScript: maybe; JavaScript that you know how to deploy "in the wild:" yes; deployable JavaScript with tests in a repo on GitHub: absolutely) and some core "soft skills:"
+* Being on time
+* Communicationg with co-workers and management
+* Responding well to feedback
+
 * Go for tech internships!
   - Add them to your resume
 * Look for opportunities to apply your tech skills in a "non-tech" job - TAing? create a website for the class.
