@@ -93,7 +93,7 @@ Starting out "experience" is anything that shows that you have *some* "industria
 
 ## Join the Community
 
-* Find meetups
+* Find meetups - check the website for projects that interest you or look on [MeetUp.com](https://www.meetup.com/)
 * Participate in hack-a-thons and gamejams
 * Attend conferences:
   - Many are local
