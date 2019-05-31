@@ -6,7 +6,7 @@
 ## Resume Building: Experience
 
 [slides]: <https://gitpitch.com/DouglasUrner/Common?p=career-launch>
-[template]: #
+[template]: <https://docs.google.com/document/d/1Mgf668gbpxxViqM5FuW4A3-vxxqYrm7xQsmiPV5USrY/edit?usp=sharing>
 
 [Slides: Career Launch][slides] - right-click and choose **Open link in a new tab** to view.
 
