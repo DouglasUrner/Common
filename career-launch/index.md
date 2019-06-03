@@ -5,6 +5,9 @@
 
 ## Resume Building: Experience
 
+One of the challenges in finding your first jobs or internships is what to put on your resume. A great way to build experince, and add to your resume, is to contribute to an [open source][] software project.
+
+[open source]: <https://en.wikipedia.org/wiki/Open-source_software>
 [slides]: <https://gitpitch.com/DouglasUrner/Common?p=career-launch>
 [template]: <https://docs.google.com/document/d/1Mgf668gbpxxViqM5FuW4A3-vxxqYrm7xQsmiPV5USrY/edit?usp=sharing>
 
