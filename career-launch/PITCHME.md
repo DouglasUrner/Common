@@ -1,4 +1,4 @@
-# Launching Your Career
+# Building A CS Résumé
 
 ## It's not too early...
 
