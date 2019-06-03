@@ -50,7 +50,7 @@ Note:
     - Tackle projects/bugs from the issues list
     - Check out beginner mentoring (e.g. Drupal office hours)
 * Create an online portfolio of design work
-* Connect your GitHub and LinkedIn profiles, and your portfolio to your (online) resume.
+* Connect your GitHub and LinkedIn profiles, and your portfolio to your (online) résumé.
 
 ---
 
@@ -74,9 +74,9 @@ Starting out "experience" is anything that shows that you have *some* "industria
 * Responding well to feedback
 
 * Go for tech internships!
-  - Add them to your resume
+  - Add them to your résumé
 * Look for opportunities to apply your tech skills in a "non-tech" job - TAing? create a website for the class.
-  - Add them to your resume.
+  - Add them to your résumé.
 * If you can't put your tech skills to work at a job or internship:
   - Work on open source software projects (see above)
   - Work on public coding challenges
@@ -86,7 +86,7 @@ Starting out "experience" is anything that shows that you have *some* "industria
     - Automate boring/repetitive tasks
     - Build tools to organize and/or analyize data
     - Add to your resume and GitHub
-* Know the differences and benefits of functional resumes
+* Know the differences and benefits of functional résumés
 * The energy that you put into launching your career will be matched by your teachers, managers, and mentors.
 
 ---
