@@ -135,7 +135,15 @@ Note:
 
 ---
 
-## Entry-level Expectations
+## Entry-level Expectations (post-college)
+
+* Know one mainstream language well: C#, Java, JavaScript, Python
+* Know common data structures and when to use them:
+* Know standard algorithms and their runtime complexities:
+* Know how a common OS (Linux, macOS, Windows) is organized
+* Common front and back end technologies
+* Know the basics of HTTP and web apps:
+* Comfortable with Unix or Windows tools
 
 Note:
 
