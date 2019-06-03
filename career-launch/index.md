@@ -19,9 +19,9 @@
 ## Instructions
 
 Dig out your notebook and make some lists:
-* Organizations that you are connected with (or attracted to) - especially ones that might have "tech needs." What kinds of help do you think they need?
-* Software projects that are interesting to you - curious about game engines, or photo editing, or web browers...?
-* Kinds of work that you like - writing, designing tests, organizing things, writing code, etc.
+* Skills you are developing - JavaScript, C#, etc.
+* Problems and/or projects that interest you - curious about game engines, or photo editing, or web browers...?
+* Types of work that you'd like to try out - writing, translation, designing tests, organizing things, writing code, etc.
 
 Use the lists help you search for opportunites to contribute to a software project.
 Check out these sites for new-to-contributing developers:
