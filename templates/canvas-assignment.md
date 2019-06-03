@@ -1,14 +1,14 @@
 ---
 ---
 
-[//]: # ( <p><iframe src="https://douglasurner.github.io/COURSE/units/#/assignments/#-SHORT_NAME/" width="100%" height="666px"></iframe></p> )
+[//]: # ( <p><iframe src="https://douglasurner.github.io/COURSE_SHORT_NAME/units/UNIT_#/assignments/#-ASSIGNMENT_SHORT_NAME/" width="100%" height="666px"></iframe></p> )
 
 ## Assignment Name
 
-[slides]: #
+[slides]: <https://gitpitch.com/DouglasUrner/COURSE_SHORT_NAME?p=units/UNIT_#/assignments/ASSIGNMENT_#-ASSIGNMENT_SHORT_NAME>
 [template]: #
 
-[Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+[Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
