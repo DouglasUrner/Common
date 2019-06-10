@@ -24,7 +24,7 @@ One of the challenges in finding your first jobs or internships is what to put o
 Dig out your notebook and make some lists:
 * Skills you are developing - JavaScript, C#, etc.
 * Problems and/or projects that interest you - curious about game engines, or photo editing, or web browers...?
-* Types of work that you'd like to try out - writing, translation, designing tests, organizing things, writing code, etc.
+* Types of work that you enjoy or that you would like to try out - writing, translation, designing tests, organizing things, writing code, etc.
 
 Use the lists help you search for opportunites to contribute to a software project.
 Check out these sites for new-to-contributing developers:
@@ -34,8 +34,11 @@ Check out these sites for new-to-contributing developers:
 
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
+1. Use a sticky note to bookmark your lists in your notebook and turn it in.
 
 ## Submission
+
+There are two
 
 After completing your [template][], submit a PDF through Canvas - **do not** submit by sharing the document.
 
