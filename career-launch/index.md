@@ -38,7 +38,10 @@ Check out these sites for new-to-contributing developers:
 
 ## Submission
 
-There are two
+There are two components to turn in for this assignment, make sure you do both:
+
+* The lists in your notebook - with the page bookmarked (and dated).
+* The completed [submission template][template] on Canvas.
 
 After completing your [template][], submit a PDF through Canvas - **do not** submit by sharing the document.
 
