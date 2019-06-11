@@ -14,6 +14,8 @@ Research
 
 ## Admissions
 
+Recaluclate GPA as unweighted
+
 Early Decision 1 Nov .> 15 Dec
 Regular 1 Jan -> 15 March thru 15 April 
 
@@ -27,6 +29,12 @@ Standardized Testing
 - Super score SAT 
 - SAT subject tests
 Non-Academic Infromation (not just an student but a person)
+
+IB/AP tests do not count as subject tests
+
+1st year attrition rate: 
+
+Degrees towards master starting in UG  (5 year master)
 
 ## FA
 
