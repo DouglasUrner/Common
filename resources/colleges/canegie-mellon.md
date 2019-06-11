@@ -2,7 +2,7 @@
 
 Research
 
-Faculty
+## Faculty
 
 97% PhD or terminal degree
 Teach UG degrees
@@ -11,15 +11,18 @@ TAs do recitatian / proctor
 intro 40-60
 65% < 20 students
 
-* Detrich
-  - 
-* Mellon College of Science
+## Colleges
+
+### Detrich
+  - Stats - 
+  
+### Mellon College of Science
 
 100+ research centers / institutes
 Undergraduate Reseaach Office
 Meeting of the Minds
 
-School of CS
+### School of CS
 
 * CS
 * Comutational Bio
@@ -28,3 +31,5 @@ School of CS
 * Study abroad is possible / encouraged - support for custom programs
   - 20 established locations
   - develop own program
+  
+Information systems - cross disciplinary - big data
