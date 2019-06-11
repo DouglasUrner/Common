@@ -26,6 +26,8 @@ Meeting of the Minds
 
 ### College of Engineering
 
+Project based work from first semester
+
 ### School of CS
 
 * CS
