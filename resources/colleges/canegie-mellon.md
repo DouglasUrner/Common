@@ -4,6 +4,19 @@ For many students their first experince of rigor. First time they need to help. 
 
 Research
 
+## Admissions
+
+All applicants are direct to college - up to two colleges, explain in writing why, ranking of schools matters
+
+Academics - HS transcript looking for readiness to handle rigor, taking hardest classes available.
+Counselor/Teacher Recommendations (if teachers/community members know you in a different context)
+CM short answer supplement
+Standardized Testing
+- ACT or SAT no writing, not both
+- Super score SAT 
+- SAT subject tests
+Non-Academic Infromation (not just an student but a person)
+
 ## Faculty
 
 97% PhD or terminal degree
