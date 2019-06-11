@@ -1,5 +1,5 @@
 ## Documentaries
-* [23][] - 
+* [23][] - This is the story told by Cliff Stoll in [The Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg)
     [trailer]()
 * [Breaking the Code][] - Alan Turing
     [trailer]()
