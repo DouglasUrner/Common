@@ -18,3 +18,13 @@ intro 40-60
 100+ research centers / institutes
 Undergraduate Reseaach Office
 Meeting of the Minds
+
+School of CS
+
+* CS
+* Comutational Bio
+* AI (first in US)
+* Math with a keyboard - doing math, thinking abstractly, using math, comutational thinking, problem solving - apps, web not a focus (but they do happen)
+* Study abroad is possible / encouraged - support for custom programs
+  - 20 established locations
+  - develop own program
