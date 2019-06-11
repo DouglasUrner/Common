@@ -1,4 +1,6 @@
 ## Documentaries
+* [Codebreaker][] - Alan Turing
+    [trailer]()
 * [Hidden Figures][] - Black women working for NASA as mathematicians during the race to the moon.
     [trailer]()
 * [The Imitation Game][] - Alan Turing
@@ -22,6 +24,7 @@
 * [War Games][]
     [trailer]()
 
+[Codebreaker]: <http://www.imdb.com/title/tt2119396/>
 [Hidden Figures]: <>
 [The Imitation Game]: <>
 [Indie Game: The Movie]: <>
@@ -30,6 +33,6 @@
 [Terms & Conditions]: <>
 [War Games]: <>
 [We Are Legion]: <>
-[]: <>
+[Codebreaker]: <>
 []: <>
 
