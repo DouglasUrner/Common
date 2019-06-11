@@ -28,6 +28,8 @@ Meeting of the Minds
 
 Project based work from first semester
 
+43% women
+
 ### School of CS
 
 * CS
@@ -37,6 +39,8 @@ Project based work from first semester
 * Study abroad is possible / encouraged - support for custom programs
   - 20 established locations
   - develop own program
+  
+50% women
   
 Information systems - cross disciplinary - big data
 
