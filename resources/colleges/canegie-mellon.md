@@ -4,6 +4,14 @@ For many students their first experince of rigor. First time they need to help. 
 
 Research
 
+### Outcomes
+
+60% employed in field within 6 months
+27% continue education
+6% unemploied
+1% other
+6% no response
+
 ## Admissions
 
 Early Decision 1 Nov .> 15 Dec
