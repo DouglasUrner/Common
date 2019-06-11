@@ -33,3 +33,9 @@ Meeting of the Minds
   - develop own program
   
 Information systems - cross disciplinary - big data
+
+### Inter disciplinary programs
+* BXA Program
+Bachelor of X in the Arts
+
+* IDeATe (Integrative Design, Arts & Technology Network)
