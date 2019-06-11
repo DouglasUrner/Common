@@ -6,7 +6,7 @@
 * [Indie Game: The Movie][] - The world of indie game developers
     [trailer](https://youtu.be/dINgx0y4GqM)
 * [The Internet's Own Boy][] - Aaron Schwartz
-    [trailer](https://www.youtube.com/watch?v=vXr-2hwTk58)
+    [full movie](https://www.youtube.com/watch?v=vXr-2hwTk58)
 * [The Social Network][] - FaceBook
     [trailer]()
 * [Terms & Conditions][] - Free is a too high a price to pay, big data and free services
