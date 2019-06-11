@@ -1,4 +1,6 @@
-#
+# Carnegie Mellon
+
+For many students their first experince of rigor. First time they need to help. Programs to support.
 
 Research
 
@@ -21,6 +23,8 @@ intro 40-60
 100+ research centers / institutes
 Undergraduate Reseaach Office
 Meeting of the Minds
+
+### College of Engineering
 
 ### School of CS
 
