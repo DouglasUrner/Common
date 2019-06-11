@@ -1,4 +1,6 @@
 ## Documentaries
+* [Breaking the Code][] - Alan Turing
+    [trailer]()
 * [Codebreaker][] - Alan Turing
     [trailer]()
 * [Hidden Figures][] - Black women working for NASA as mathematicians during the race to the moon.
