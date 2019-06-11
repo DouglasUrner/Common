@@ -44,10 +44,15 @@ Project based work from first semester
   
 Information systems - cross disciplinary - big data
 
-### Tupper School of Business
+### Tepper School of Business
+
+Very quantitative - you will take multi-variable calculus
+Business incubator
 
 ### Inter disciplinary programs
 * BXA Program
 Bachelor of X in the Arts
 
 * IDeATe (Integrative Design, Arts & Technology Network)
+
+### Career & Professional Development Center
