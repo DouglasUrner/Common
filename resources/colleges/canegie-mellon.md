@@ -20,6 +20,19 @@ Standardized Testing
 - SAT subject tests
 Non-Academic Infromation (not just an student but a person)
 
+## FA
+
+FAFSA
+CSS PROFILE
+1040 & W2
+
+Deadline 15  Feb
+
+Need based:
+* Grants
+* Loans (federal subsidy)
+* Student Employment (federal)
+
 ## Faculty
 
 97% PhD or terminal degree
