@@ -44,6 +44,8 @@ Project based work from first semester
   
 Information systems - cross disciplinary - big data
 
+### Tupper School of Business
+
 ### Inter disciplinary programs
 * BXA Program
 Bachelor of X in the Arts
