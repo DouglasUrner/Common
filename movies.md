@@ -5,6 +5,8 @@
     [trailer]()
 * [Codebreaker][] - Alan Turing
     [trailer](https://youtu.be/-GaKUAGSmmw)
+* [Hacking Democracy][] - 
+    [trailer]()
 * [Hidden Figures][] - Black women working for NASA as mathematicians during the race to the moon.
     [trailer]()
 * [The Imitation Game][] - Alan Turing
@@ -21,8 +23,6 @@
     [full movie](https://www.youtube.com/watch?v=-zwDhoXpk90)
 * [][] - 
     [trailer]()
-* [][] - 
-    [trailer]()
 
 ## Fiction
 
@@ -32,6 +32,7 @@
 [23]: <https://en.wikipedia.org/wiki/23_%28film%29>
 [Breaking the Code]: <>
 [Codebreaker]: <http://www.imdb.com/title/tt2119396/>
+[Hacking Democracy]: <>
 [Hidden Figures]: <>
 [The Imitation Game]: <>
 [Indie Game: The Movie]: <>
