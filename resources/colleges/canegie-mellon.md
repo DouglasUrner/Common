@@ -6,6 +6,9 @@ Research
 
 ## Admissions
 
+Early Decision 1 Nov .> 15 Dec
+Regular 1 Jan -> 15 March thru 15 April 
+
 All applicants are direct to college - up to two colleges, explain in writing why, ranking of schools matters
 
 Academics - HS transcript looking for readiness to handle rigor, taking hardest classes available.
