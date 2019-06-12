@@ -11,7 +11,7 @@ The assessment categories are the six core computing practices that define our e
 
 ## Letter Grades
 
-**A:**
+**A:** regularly building on the foundation skills taught in the class to achieve results not explicitly taught.
 
 **B:** a solid foundation has emerged, further work can be built on the foundation.
 
