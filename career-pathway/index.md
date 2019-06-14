@@ -11,7 +11,7 @@ One of the challenges in finding your first jobs or internships is what to put o
 [slides]: <https://gitpitch.com/DouglasUrner/Common?p=career-pathway>
 [template]: <https://docs.google.com/document/d/1Mgf668gbpxxViqM5FuW4A3-vxxqYrm7xQsmiPV5USrY/edit?usp=sharing>
 
-[Slides: Career Launch][slides] - right-click and choose **Open link in a new tab** to view.
+[Slides: Building Your Resume][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
