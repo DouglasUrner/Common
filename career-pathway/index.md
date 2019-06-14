@@ -21,7 +21,7 @@ One of the challenges in finding your first jobs or internships is what to put o
 
 ## Instructions
 
-Dig out your notebook and make some lists:
+Dig out your **notebook** and make some lists:
 * Skills you are developing - JavaScript, C#, etc.
 * Problems and/or projects that interest you - curious about game engines, or photo editing, or web browers...?
 * Types of work that you enjoy or that you would like to try out - writing, translation, designing tests, organizing things, writing code, etc.
