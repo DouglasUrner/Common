@@ -5,6 +5,8 @@
 
 ## The Imitation Game
 
+The 2014 film, **The Imitation Game**, is a dramitization of Alan Turing's work with the British Government Code and Cypher School to crack the German Enigma code during World War 2. While the film is genearally accurate it does take some historical liberties, it also leaves open questions about modern cryptographic methods.
+
 [slides]: <https://gitpitch.com/DouglasUrner/COURSE_SHORT_NAME?p=units/UNIT_#/assignments/ASSIGNMENT_#-ASSIGNMENT_SHORT_NAME>
 [template]: #
 
