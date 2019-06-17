@@ -1,9 +1,9 @@
 ---
 ---
 
-[//]: # ( <p><iframe src="https://douglasurner.github.io/COURSE_SHORT_NAME/units/UNIT_#/assignments/#-ASSIGNMENT_SHORT_NAME/" width="100%" height="666px"></iframe></p> )
+[//]: # ( <p><iframe src="https://douglasurner.github.io/Common/cs-movies/imitation-game/" width="100%" height="666px"></iframe></p> )
 
-## Assignment Name
+## The Imitation Game
 
 [slides]: <https://gitpitch.com/DouglasUrner/COURSE_SHORT_NAME?p=units/UNIT_#/assignments/ASSIGNMENT_#-ASSIGNMENT_SHORT_NAME>
 [template]: #
