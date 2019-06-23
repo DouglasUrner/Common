@@ -1,3 +1,13 @@
+Cell phone policy:
+* Syllabus - with initials. Send it back if not complete.
+* On Canvas.
+* On my website.
+
+Boilerplate e-mail/phone call script:
+* 1st
+* 2nd
+* 3rd
+
 [Simon Sinek - Millenials & The Internet][sinek]
 
 [Turn off your cell phone while studying. Put it face down. Stash it in a bag and ignore it. New research suggests that's all futile](https://t.co/OVGb2w5dd6)
