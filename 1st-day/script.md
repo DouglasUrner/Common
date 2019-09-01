@@ -24,3 +24,5 @@
   - End with a line by birthday (month & day)
   
 * Go back in and sit in birthday order. If today is your birthday, you get to pick your seat.
+
+Steph Jensen's [Essential SEL Skills](https://docs.google.com/presentation/d/1djdaIA6J8_K68MWULTtVs_Icm4euoeNfrp9FQrDVCTc/edit?usp=sharing)
