@@ -22,7 +22,7 @@ To add an existing lesson as a submodule:
 ```bash
 ```
 
-## [Canvas]()
+## [Canvas](canvas)
 
 ## [Git and GitHub]()
 
