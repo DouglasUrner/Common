@@ -1,4 +1,4 @@
-**To submit a Google Docs assignment on Canvas:**
+### To submit a Google Docs assignment on Canvas:
 
 1. Click on the blue **Submit Assignment** button in the upper righthand corner of the Canvas window.
 1. In the file picker below the assignment description, click on the **Google Doc** tab.
