@@ -1,1 +1,3 @@
 markdown: CommonMarkGhPages
+# markdown: kramdown
+remote_theme: douglasurner/canvas
