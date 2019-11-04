@@ -3,7 +3,7 @@
 Student formative assessment process.
 
 | Scale | Description                                   |
-| ----- | -----------                                   |
+| :---: | -----------                                   |
 | 5     | I can teach someone how to do this.           |
 | 4     | I can do this by myself without instructions. |
 | 3     | I can do this with instructions.              |
